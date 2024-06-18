@@ -33,11 +33,11 @@
   line-height: 60px;
   box-shadow: 0 2px 4px rgba(255, 255, 255, 0.5);
   height: 60px;
- ;
+
 }
 .sidebar_menu .logo a {
   position: absolute;
-  left: 60px;
+  left: 100px;
   color: white;
   text-decoration: none;
   font-size: 25px;
